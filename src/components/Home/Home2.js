@@ -13,38 +13,35 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I’m a Software Engineer who loves transforming ideas into
-              reliable, scalable products. Over time, I’ve explored several
-              technologies and found my passion in building high-performance
-              systems and intuitive user experiences.
+              I’m a React Developer passionate about building modern,
+              responsive, and user-friendly web applications. I enjoy
+              transforming ideas into interactive digital experiences and
+              creating clean, efficient, and maintainable code.
               <br />
               <br />
-              I’m proficient in
+              My primary expertise includes
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  React.js, JavaScript, HTML, CSS, and WordPress development{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              . I also have experience working with modern frontend tools,
+              responsive design, and UI development using frameworks such as{" "}
+              <b className="purple">Bootstrap</b> and{" "}
+              <b className="purple">React Bootstrap</b>.
               <br />
               <br />
-              My key areas of interest include developing
-              <i>
-                <b className="purple">
-                  {" "}
-                  Web Applications, Blockchain Solutions,{" "}
-                </b>
-              </i>
-              and exploring new ways to bridge on-chain and off-chain systems.
+              I have worked on developing and customizing websites, building
+              reusable components, and creating seamless user experiences
+              across desktop and mobile devices.
               <br />
               <br />
-              Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
-              <i>
-                <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
-              </i>
+              I’m always eager to learn new technologies, improve my development
+              skills, and stay updated with the latest trends in frontend
+              development. Whenever possible, I enjoy building projects with{" "}
+              <b className="purple">React.js</b> and exploring modern web
+              technologies to create better user experiences.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
