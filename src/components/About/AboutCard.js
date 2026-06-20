@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             <br />
             I’m a <span className="purple">React Developer</span> and{" "}
-            <span className="purple">WordPress Developer</span> passionate about
+            <span className="purple">WordPress Developer</span> Having worked in web development for over 2 years, I have gained experience in building, enhancing, and maintaining web applications across different projects. My focus is on developing efficient, responsive, and scalable frontend solutions while continuously expanding my expertise in React.js and modern web technologies. passionate about
             building responsive, user-friendly, and modern web applications. I
             enjoy creating clean interfaces, developing interactive user
             experiences, and turning ideas into functional digital products.
